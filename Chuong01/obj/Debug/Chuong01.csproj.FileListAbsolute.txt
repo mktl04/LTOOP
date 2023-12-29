@@ -1,0 +1,7 @@
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\bin\Debug\Chuong01.exe.config
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\bin\Debug\Chuong01.exe
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\bin\Debug\Chuong01.pdb
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\obj\Debug\Chuong01.csproj.AssemblyReference.cache
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\obj\Debug\Chuong01.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\obj\Debug\Chuong01.exe
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\Chuong01\obj\Debug\Chuong01.pdb
